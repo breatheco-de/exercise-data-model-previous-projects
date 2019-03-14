@@ -41,12 +41,19 @@ Go through your previous exercises and find the implemented data structure(s).
 Previous projects you may have done:
 
 Domain name generator
-Random Card Generator
+
+Random Card Generator 
+
 Seconds Counter
+
 Traffic Light
+
 Tic-Tac-Toe
+
 Media Player
+
 StarWars Blog
+
 Contact List
 
 # Data Modeling
