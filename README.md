@@ -31,10 +31,9 @@ Each todo is an *Object* that contains the **label** (*String*) and **done** (*B
 
 We must always have a clear understanding of how we're storing our data, this way we're more organized and faster while coding. Think of this as knowing your kitchen: you can cook without knowing the kitchen but you'll be way faster if you know where the ingredients and tools are. 
 
-
 ***Data Structures*** is the knowledge that we use when attempting to `Data Model` a project or a real life problem, a concept that we'll be touching in soon. 
 
-## Instructions
+## Exercise (1/2)
 
 Go through your previous exercises and find the implemented data structure(s). 
 
@@ -68,6 +67,6 @@ Objects and Object Oriented programming are the best way to see this skill in ac
 
 Just as almost all other subjects in coding/computer science there's a standard way to represent *data models*, it is called [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language) (Unified Modeling Language). Check this video that explains how to create a [UML Diagram](https://www.youtube.com/watch?v=UI6lqHOVHic&list=PLUoebdZqEHTxNC7hWPPwLsBmWI0KEhZOd)
 
-## Exercise
+## Exercise (2/2)
 
 Create a UML Diagram of the popular platform: **Instagram**. Try to find 3 entities that represent the platform and are key for it to work. Try to include at least 5 *attributes* per entity (some are invisible for the regular user, but not for a coder).
