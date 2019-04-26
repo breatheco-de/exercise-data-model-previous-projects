@@ -46,7 +46,6 @@ Previous projects you may have done:
 - StarWars Blog
 - Contact List
 
-Node:
 
 # Data Modeling
 
