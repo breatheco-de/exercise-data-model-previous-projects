@@ -1,4 +1,4 @@
-# Data Structuring of previous projects
+# Data Structuring & Modeling Previous Projects
 
 Probably, this is the first time that you've heard the term ***Data Structuring***:
 
@@ -31,29 +31,22 @@ Each todo is an *Object* that contains the **label** (*String*) and **done** (*B
 
 We must always have a clear understanding of how we're storing our data, this way we're more organized and faster while coding. Think of this as knowing your kitchen: you can cook without knowing the kitchen but you'll be way faster if you know where the ingredients and tools are. 
 
-***Data Structures*** is the knowledge that we use when attempting to `Data Model` a project or a real life problem, a concept that we'll be touching in soon. 
-
-## Exercise (1/2)
+## Instructions
 
 Go through your previous exercises and find the implemented data structure(s). 
 
 Previous projects you may have done:
 
-Domain name generator
+- Domain name generator
+- Random Card Generator 
+- Seconds Counter
+- Traffic Light
+- Tic-Tac-Toe
+- Media Player
+- StarWars Blog
+- Contact List
 
-Random Card Generator 
-
-Seconds Counter
-
-Traffic Light
-
-Tic-Tac-Toe
-
-Media Player
-
-StarWars Blog
-
-Contact List
+Node:
 
 # Data Modeling
 
